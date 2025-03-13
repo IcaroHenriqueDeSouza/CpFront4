@@ -2,3 +2,13 @@
     box-sizing: content-box;
   }
 
+body{
+  background-color: black;
+}
+
+.profile-img {
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #212529;
+}
